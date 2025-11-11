@@ -1,5 +1,7 @@
 # Steven A Correa
 
+**phone: 530.736.7365**
+
 **email: [hiresteven@icloud.com](mailto:hiresteven@icloud.com)**
 
 **website: [stevenacorrea.com](https://stevenacorrea.com)**
@@ -13,17 +15,17 @@
 
 ## Competencies
 
-  * 7 years AWS and Azure infrastructure automation and operation
-  * 9 years Linux administration, configuration management, scripting
-  * 5 years Production Systems management, incident response and resolution
-  * 3 years CI/CD implementation, release management and monitoring
+  * 9 years of Linux administration, configuration management, scripting
+  * 7 years of AWS and Azure infrastructure automation and operation
+  * 5 years of production systems management, incident response and resolution
+  * 3 years of CI/CD implementation, release management and monitoring
 
 ## Experience
 
 ### Feb 2022 – Feb 2023 | Manager, Systems Engineering (Promotion) – [_Red Canary_](https://redcanary.com/company)
   * Hire, coach and lead a team of 4 Systems Engineers working across engineering and security
   * Improve security posture by coordinating AWS SSO roll out and driving security objectives
-  * Drove initiative to remove 100+ individual AWS Access Keys leveraging Director buy in
+  * Drive initiative to remove 100+ individual AWS Access Keys leveraging Director buy in
   * Oncall, response and resolution for incidents leveraging real time collaboration tools
   * Review and define Terraform best practices by leading the Terraform Working Group
 
@@ -40,6 +42,9 @@
   * Increase configuration as code across 20+ microservices by writing Jenkinsfiles and Dockerfiles
   * Resolve issues at scale using New Relic APM and Sumo Logic SIEM
   * Incident response and resolution for $1B/yr production Ecommerce infrastructure
+
+# Steven A Correa
+
 
 ### Sep 2017 – Jun 2018 | DevOps Engineer – [_Work Truck Solutions_](https://www.worktrucksolutions.com)
   * Build and manage 4 automated CI/CD pipelines for Windows and Linux applications using VSTS
@@ -59,10 +64,17 @@
 ### 2020 | Associate of Science, Computer Programming – [_Butte College_](https://programs.butte.edu/ProgramInfo/10/2084)
 
 ## Certifications
-### 2021 | [Microsoft Certified: Azure Fundamentals, Developer Associate, DevOps Engineer Expert](https://www.credly.com/badges/57b3f63b-f5ca-41ee-b67d-719b9e866672)
+
+### 2021 | [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/57b3f63b-f5ca-41ee-b67d-719b9e866672)
+
+### 2021 | [Microsoft Certified: Developer Associate](https://www.youracclaim.com/badges/d59ba50d-c91c-4052-86cd-95e27037cacf)
+
+### 2020 | [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/45466e69-a193-4fb7-8eef-ac81af90bca4)
 
 ### 2020 | [The Linux Foundation LFS258: Kubernetes Fundamentals](https://www.credly.com/badges/f7efd3c9-0347-4c6f-9dfc-5d0d1891f4d5)
 
 ### 2020 | [CompTIA A+ Certification](https://www.credly.com/badges/3c16f47b-083f-4a7f-9300-f0c1da238ef6)
+
+### 2020 | [Google IT Support Professional](https://www.credly.com/badges/bf0747ca-044f-42b1-b3c6-bb8f6b405935)
 
 **References and further experience available via [LinkedIn](https://www.linkedin.com/in/stcorrea) or upon request**
