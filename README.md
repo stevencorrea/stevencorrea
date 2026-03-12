@@ -14,11 +14,19 @@
 ## Competencies
 
   * 7 years AWS and Azure infrastructure automation and operation
-  * 9 years Linux administration, configuration management, scripting
-  * 5 years Production Systems management, incident response and resolution
-  * 3 years CI/CD implementation, release management and monitoring
+  * 16 years Linux administration, configuration management, scripting
+  * 10 years Production Systems management, incident response and resolution
+  * 8 years CI/CD implementation, release management and monitoring
 
 ## Experience
+
+### Mar 2023 – Jul 2025 – Senior DevOps Engineer – [_Liatrio_](https://liatrio.com)
+  * Built Backstage provisioning workflows for rapid deployment of standardized environments following AWS Well-Architected patterns
+  * Implemented multi-region cloud infrastructure on AWS and Azure using Kubernetes, terraform-controller, and RBAC/ABAC
+  * Authored and maintained Terraform IaC for repeatable, auditable AWS environment provisioning
+  * Translated complex infrastructure requirements into clear outcomes for stakeholders and cross-functional client teams
+  * Drove Copilot adoption across 6 Fortune 500 engineering teams through presentations, working sessions, and office hours
+
 
 ### Feb 2022 – Feb 2023 | Manager, Systems Engineering (Promotion) – [_Red Canary_](https://redcanary.com/company)
   * Hire, coach and lead a team of 4 Systems Engineers working across engineering and security
@@ -56,6 +64,8 @@
   * 24x7 monitoring of all production applications and infrastructure using New Relic and CloudWatch
 
 ## Education
+
+### 2026 | Bachleor's of Science, Computer Information Systems – [_California State University, Chico_](https://catalog.csuchico.edu/colleges-departments/college-engineering-computer-science-construction-management/computer-science/computer-information-systems-bs/)
 ### 2020 | Associate of Science, Computer Programming – [_Butte College_](https://programs.butte.edu/ProgramInfo/10/2084)
 
 ## Certifications
